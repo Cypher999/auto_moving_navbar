@@ -1,0 +1,17 @@
+ul.menu li{
+  display: block;
+  width: 100%;
+}
+ul.side-pos{
+  position: fixed;
+  overflow: hidden;
+  z-index: 1;
+  background: #cecece;
+}
+ul.side-pos li{
+  display: inline;
+}
+
+div.header{
+  background: #cecece;
+}
